@@ -1,3 +1,4 @@
+
 //script para las flechas del centenario
 window.addEventListener('load',function(){
     var flechas=document.getElementsByName('flecha');
